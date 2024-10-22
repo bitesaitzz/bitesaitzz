@@ -14,6 +14,7 @@
 - MySQL
 - PostgreSQL
 - GIT
+- Kafka
 - HTML
 - CSS
   
