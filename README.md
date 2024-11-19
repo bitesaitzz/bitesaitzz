@@ -19,6 +19,6 @@
 - CSS
   
 
-![](https://leetcard.jacoblin.cool/bitrsait?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/bitesait?border=0&radius=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitesaitzz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
