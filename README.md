@@ -13,6 +13,8 @@
 - Django
 - MySQL
 - PostgreSQL
+- Jenkins
+- K8S
 - GIT
 - Kafka
 - HTML
